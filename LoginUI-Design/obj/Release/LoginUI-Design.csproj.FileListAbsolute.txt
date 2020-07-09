@@ -1,0 +1,9 @@
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\bin\Release\LoginUI-Design.exe.config
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\bin\Release\LoginUI-Design.exe
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\bin\Release\LoginUI-Design.pdb
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI_Design.Form1.resources
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI_Design.Properties.Resources.resources
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI-Design.csproj.GenerateResource.cache
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI-Design.csproj.CoreCompileInputs.cache
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI-Design.exe
+C:\Users\Marshall\source\repos\LoginUI-Design\LoginUI-Design\obj\Release\LoginUI-Design.pdb
